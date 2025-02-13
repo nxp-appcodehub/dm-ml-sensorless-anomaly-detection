@@ -1,0 +1,1 @@
+GEN_CSRCS += _mid_alpha_460x9.c _right_alpha_10x320.c _left_alpha_10x320.c _top_alpha_460x14.c _bot_alpha_460x6.c _Picture1_alpha_48x48.c

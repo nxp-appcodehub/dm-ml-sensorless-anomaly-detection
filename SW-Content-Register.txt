@@ -1,0 +1,24 @@
+NXP Software Content Register
+
+Package:				dm-ml-sensorless-anomaly-detection
+Version:				1.0.0
+Outgoing License:		LA_OPT_Online Code Hosting NXP_Software_License - v1.3 December 2024 
+License File:			LICENSE.txt
+Description and comments:	This software introduces demo for sensorless anomaly detection using machine learning algorithms in a motor control system with graphical user interface.
+							The demo is designed to be used with NXP low voltage PMSM board and NXP LCD-PAR-S035 display.
+Release Location:		https://github.com/nxp-appcodehub/dm-ml-sensorless-anomaly-detection
+Origin:					NXP (BSD-3-Clause)
+						ARM CMSIS v5.8.0 (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.8.0
+						MLUD_FreeMASTER v1.0 (LA_OPT_Online Code Hosting NXP_Software_License) - https://github.com/nxp-appcodehub/ap-ml-universal-datalogger-for-freemaster.git                                                          
+						littlevgl v8.3.10_rev1 (MIT License) - https://github.com/lvgl/lvgl 
+						Montserrat Font v7.222 (OFL-1.1 license) - https://github.com/JulietaUla/Montserrat
+                        Poppins v4.003 (OFL-1.1 license) - https://github.com/itfoundry/Poppins/releases/tag/v4.003
+                        Font Awesome (OFL-1.1 license) - https://fontawesome.com/license/free
+						Freemaster v24.12.00-pvw2 (LA_OPT_Online Code Hosting NXP_Software_License) - https://github.com/nxp-mcuxpresso/mcux-freemaster
+						rtcesl v4.8 (LA_OPT_Online Code Hosting NXP_Software_License) - https://github.com/nxp-mcuxpresso/rtcesl
+						eIQ Toolkit v1.12.1 - Time Series Studio model (LA_OPT_Online Code Hosting NXP_Software_License) - https://www.nxp.com/design/design-center/software/eiq-ml-development-environment/eiq-toolkit-for-end-to-end-model-development-and-deployment:EIQ-TOOLKIT
+						mcux-motor_control (LA_OPT_Online Code Hosting NXP_Software_License) - https://github.com/nxp-mcuxpresso/mcux-motor_control/tree/release/24.12.00
+						freemaster_sha (Public Domain) - https://github.com/B-Con/crypto-algorithms
+						
+
+                                                      
